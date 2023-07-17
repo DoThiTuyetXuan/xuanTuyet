@@ -1,0 +1,19 @@
+C:\Users\MEN\OneDrive\Máy tính\baquangluan\baquangluan\baquangluan\bin\Debug\baquangluan.exe.config
+C:\Users\MEN\OneDrive\Máy tính\baquangluan\baquangluan\baquangluan\obj\Debug\baquangluan.exe
+C:\Users\MEN\OneDrive\Máy tính\baquangluan\baquangluan\baquangluan\obj\Debug\baquangluan.pdb
+C:\Users\MEN\OneDrive\Máy tính\TuyetXuan_0084\TuyetXuan_0084\TuyetXuan_0084\bin\Debug\baquangluan.exe.config
+C:\Users\MEN\OneDrive\Máy tính\TuyetXuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\baquangluan.exe
+C:\Users\MEN\OneDrive\Máy tính\TuyetXuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\baquangluan.pdb
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\bin\Debug\baquangluan.exe.config
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\baquangluan.exe
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\baquangluan.pdb
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\bin\Debug\baquangluan.exe
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\bin\Debug\baquangluan.pdb
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\TuyetXuan_0084.csprojResolveAssemblyReference.cache
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\baquangluan.Form1.resources
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\baquangluan.Form2.resources
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\baquangluan.Form3.resources
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\baquangluan.Form4.resources
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\baquangluan.Form5.resources
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\baquangluan.Properties.Resources.resources
+E:\tuyetxuan_0084\TuyetXuan_0084\TuyetXuan_0084\obj\Debug\TuyetXuan_0084.csproj.GenerateResource.Cache

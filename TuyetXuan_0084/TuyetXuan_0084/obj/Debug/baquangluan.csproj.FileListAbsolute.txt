@@ -1,0 +1,16 @@
+D:\baquangluan\baquangluan\bin\Debug\baquangluan.exe.config
+D:\baquangluan\baquangluan\bin\Debug\baquangluan.exe
+D:\baquangluan\baquangluan\bin\Debug\baquangluan.pdb
+D:\baquangluan\baquangluan\obj\Debug\baquangluan.csprojResolveAssemblyReference.cache
+D:\baquangluan\baquangluan\obj\Debug\baquangluan.Form1.resources
+D:\baquangluan\baquangluan\obj\Debug\baquangluan.Form2.resources
+D:\baquangluan\baquangluan\obj\Debug\baquangluan.Properties.Resources.resources
+D:\baquangluan\baquangluan\obj\Debug\baquangluan.csproj.GenerateResource.Cache
+D:\baquangluan\baquangluan\obj\Debug\baquangluan.exe
+D:\baquangluan\baquangluan\obj\Debug\baquangluan.pdb
+D:\baquangluan\baquangluan\obj\Debug\baquangluan.Form3.resources
+D:\baquangluan\baquangluan\obj\Debug\baquangluan.Form4.resources
+D:\baquangluan\baquangluan\obj\Debug\baquangluan.Form5.resources
+C:\Users\MEN\OneDrive\Máy tính\baquangluan\baquangluan\baquangluan\bin\Debug\baquangluan.exe.config
+C:\Users\MEN\OneDrive\Máy tính\baquangluan\baquangluan\baquangluan\obj\Debug\baquangluan.exe
+C:\Users\MEN\OneDrive\Máy tính\baquangluan\baquangluan\baquangluan\obj\Debug\baquangluan.pdb
